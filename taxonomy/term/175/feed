@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://sundaysenergy.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Support</title>
+ <link>http://sundaysenergy.org/page-type/support</link>
+ <description>The taxonomy view with a depth of 0.</description>
+ <language>en</language>
+<item>
+ <title>Hosting Support</title>
+ <link>http://sundaysenergy.org/hosting-support</link>
+ <description>&lt;h2&gt;100% uptime guarantee!&lt;/h2&gt;
+&lt;p&gt;
+Sundays Energy is dedicated to providing our hosting clients with enterprise class service.  We back our uptime promise with a 100% uptime guarantee.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://sundaysenergy.org/hosting-support&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://sundaysenergy.org/page-type/support">Support</category>
+ <pubDate>Wed, 04 Jun 2008 01:36:24 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">1325 at http://sundaysenergy.org</guid>
+</item>
+</channel>
+</rss>
